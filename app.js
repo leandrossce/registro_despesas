@@ -172,14 +172,14 @@ function cadastrarDespesa() {
 
 		//dialog de sucesso
 		$('#modalRegistraDespesa').modal('show') 
-/*
+
 		ano.value = '' 
 		mes.value = ''
 		dia.value = ''
 		tipo.value = ''
 		descricao.value = ''
 		valor.value = ''
-		document.getElementById('data-exibida').value = ''		*/
+		document.getElementById('data-exibida').value = ''		
 		
 	} else {
 		
